@@ -1,4 +1,7 @@
-AkkaStandaloneSamples
-=====================
+.DS_Store
 
-AkkaStandaloneSamples
+*/target/**
+
+.classpath
+.project
+.settings
