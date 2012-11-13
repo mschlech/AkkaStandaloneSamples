@@ -2,7 +2,7 @@
 
 */target/**
 */test/**
-
+/project/project/**
 .classpath
 .project
 .settings

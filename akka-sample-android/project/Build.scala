@@ -23,7 +23,7 @@ object General {
     proguardSettings ++
     AndroidManifestGenerator.settings ++
     AndroidMarketPublish.settings ++ Seq (
-      keyalias in Android := "change-me",
+      keyalias in Android := "akka-sample-android",
       libraryDependencies ++= Seq("com.typesafe.akka" % "akka-actor_2.10.0-RC1" % "2.1.0-RC1",
         "org.scala-lang" % "scala-reflect" % "2.10.0-RC1"))
 }
